@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C90C81D7-5547-F3A2-5742-95196C587EF2}") = "SonoPillTest", "Assembly-CSharp.csproj", "{0117FEFB-4BA8-9072-E9ED-3EC49066CEC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0117FEFB-4BA8-9072-E9ED-3EC49066CEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0117FEFB-4BA8-9072-E9ED-3EC49066CEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0117FEFB-4BA8-9072-E9ED-3EC49066CEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0117FEFB-4BA8-9072-E9ED-3EC49066CEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
